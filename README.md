@@ -24,8 +24,7 @@ Here's an overview of the project's structure:
 
 ### Description
 
-- **src/**: Contains all the source code for the project.
-  - `modele/`: Contains all the modele of the project
+- **data/**: Contains the market data of the project.
 - **install_for_windows.bat**: Batch file to set up the project on Windows.
 - **README.md**: The readme file.
 - **notebook.ipynb**: Contain all the application of the project.
